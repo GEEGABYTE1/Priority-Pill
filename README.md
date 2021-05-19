@@ -37,8 +37,8 @@ Typing must be accurate in this software. For example, `"Headache"` must be writ
 
 *Controls* are going to be listed when the software is launched for both the `user database` and `patient database`. 
 
-To fully quit the software, you may need to type `/quit` twice one-by-one (*This will mostly happen when you are in the patient database*).
+To fully quit the software, you may need to type `/quit` twice one-by-one (*This will mostly happen when you are in the patient database*). This is because when the user is in the patient database, the user themselves are under two while loops, hence, they would have to break the loop twice. Which is why the user has to type  `/quit` twice.
 
-If the hopsital name does not show up in the user database, that means the program has overriden another hospital object that may have the same hash_code. Therefore, you may need to re-write the new hospital in a different way (for ex, include numbers, characters, capitals, etc.)
+If the hopsital name does not show up in the user database, that means the program has overriden another hospital object that may have the same hash_code. Therefore, the user may need to re-write the new hospital in a different way (for ex, include numbers, characters, capitals, etc.)
 
 Made in Python 🐍
