@@ -26,7 +26,6 @@ class Prompt:
             print('4: To remove the patient from your queue')
             print('/quit : to exit the database')
             print('/view_database: to see your medical issues registered in the software')
-            pritn
             print('-'*6)
             time.sleep(0.2)
 
@@ -93,6 +92,7 @@ class Prompt:
                     
 
             elif prompt2 == "/quit":
+                print("You have quit the hospital's patient's database")
                 break
 
             elif prompt2 == "/view database":
@@ -153,7 +153,7 @@ class Prompt:
 
 
 
-test = Prompt()
+#test = Prompt()
 
-print(test.intro())
+#print(test.intro())
         
