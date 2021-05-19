@@ -11,8 +11,8 @@ Since the user can make up the priority value based on the medical issue, this s
 
 For the software to output a proper list of patients based on medical issues, the user themselves must evaluate the medical issue ranging from any natural number. The ratings must be reasonable (for ex, `heart attack: 4` and `headache: 2`), otherwise, the software may output a queue that might have the order messed up.
 
-`The higher the rating` = The more dangerous 
-`The lower the rating` = Less Serious 
+- `The higher the rating` = The more dangerous 
+- `The lower the rating` = Less Serious 
 
 
 
