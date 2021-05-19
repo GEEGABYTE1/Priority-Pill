@@ -1,9 +1,9 @@
-# Patient Database 🩺
+# Priority Pill💊
 
-Automate prioritizing patients based on medical needs without machine learning. Can be used for expiremental cases and in real-time hospitals. 
+Automate prioritizing patients based on medical needs without machine learning. Can be used for expiremental cases and in real-time hospitals 💨
 
 
-# User Database Information 
+# User Database Information 👤
 
 When the user first launches the program, they will be encountered with a "database" where they must create their hospital's personal patient database. After that, they can go and launch the software's main feature.
 
@@ -14,7 +14,7 @@ If the user creates another database with the same hospital name, it will overri
 Most operations run linear time.
 
 
-# Patient Database Information
+# Patient Database Information 🏥
 
 A Patient Database that prioritizes patients based on their medical needs and issues 🩺
 
