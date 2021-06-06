@@ -19,7 +19,7 @@ class Prompt:
             time.sleep(0.3)
             print('-'*6)
             time.sleep(0.2)
-            print("You have two options: \n")
+            print("You have 6 options: \n")
             print('1: Insert a new medical condition you would like to sort by \n')
             print('2: View all of your patients based on priority \n')
             print('3: Add a patient to your database and queue')
